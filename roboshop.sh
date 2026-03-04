@@ -2,7 +2,7 @@
 
 AMI_ID="ami-0220d79f3f480ecf5"
 SG_ID="sg-0eb57b7366948965c"
-ZONE_ID="ZZ09600663N3RJY2DUWCBB" # replace with your ID
+ZONE_ID="Z09600663N3RJY2DUWCBB" # replace with your ID
 DOMAIN_NAME="dawsuday.fun"
 
 
